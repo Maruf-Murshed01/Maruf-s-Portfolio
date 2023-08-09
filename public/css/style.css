@@ -99,7 +99,7 @@ img {
 
 @media screen and (max-width: 480px) {
   .hero-image {
-    max-height: 300px; /* Adjust this value as needed */
+    max-height: 190px; /* Adjust this value as needed */
   }
 }
 
